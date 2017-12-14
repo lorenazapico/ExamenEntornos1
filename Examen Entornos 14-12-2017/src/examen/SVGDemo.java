@@ -10,7 +10,7 @@ import com.kitfox.svg.app.beans.SVGPanel;
 public class SVGDemo {
 	
 	public static void main(String[] args) {
-		JFrame frame = new JFrame("Entornos de Desarrollo - Examen 1ª Evaluacion - Zapico Freije, Lorena");
+		JFrame frame = new JFrame("Entornos de Desarrollo - Examen 1ª Evaluacion - Zapico Freije, Lorena -GIT");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				
 		SVGPanel panel = new SVGPanel();
